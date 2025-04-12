@@ -1,0 +1,2 @@
+# consol_fail_manager
+consol_fail_manager
