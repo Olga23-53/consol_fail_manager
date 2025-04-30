@@ -136,7 +136,7 @@ def view_files():
         print("Файлов не найдено.")
 
 
-def os_info(): # информация об ос вывод
+def os_info() -> None: # информация об ос вывод
     info = {
         "Система": platform.system(),
         "Версия": platform.version(),
